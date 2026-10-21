@@ -1,0 +1,2 @@
+CitrusNX GitHub write access test.
+This file confirms that a new branch can receive commits through the GitHub integration.
